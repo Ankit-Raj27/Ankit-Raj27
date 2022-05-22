@@ -3,7 +3,7 @@
 </div>
 <img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
 
-![](https://komarev.com/ghpvc/?username=nagarajpandith&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Ankit-Raj27&color=brightgreen)
 
 [ LinkedIN](https://www.linkedin.com/in/ankit-raj-kushwaha-840b931aa/)
 
