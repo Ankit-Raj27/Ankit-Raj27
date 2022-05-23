@@ -20,15 +20,15 @@
 
 ![](https://komarev.com/ghpvc/?username=Ankit-Raj27&color=brightgreen)
 
-## Get in touch
+## About
 <p align="center">
-    <a href="https://www.discord.com/users/hashclan#4890" target="_blank">
+    <a href="https://www.discord.com/users/Switchengeek#7933" target="_blank">
     <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
     </a>&nbsp;&nbsp;
     <a href="mailto:ankitrajk27@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
     </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/_ankit._.raj_" target="_blank">
+    <a href="https://instagram.com/_ankit._.raj" target="_blank">
     <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
     </a>&nbsp;&nbsp;
      <a href="https://t.me/switchengeek" target="_blank">
