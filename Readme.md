@@ -1,11 +1,43 @@
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"  </h2>
 </div>
-<img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
+## Real-time Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Ankit-Raj27&count_private=true" width = 400>
+  <br>
+</p>
+
+<!-- ## Featured Repos -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site) -->
+
+<p align="center">
+    <a href="https://github.com/Ankit-Raj27?tab=repositories" target="_blank">View More on Github
+    </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Ankit-Raj27&color=brightgreen)
 
-[ LinkedIN](https://www.linkedin.com/in/ankit-raj-kushwaha-840b931aa/)
+## Get in touch
+<p align="center">
+    <a href="https://www.discord.com/users/hashclan#4890" target="_blank">
+    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
+    </a>&nbsp;&nbsp;
+    <a href="mailto:ankitrajk27@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/_ankit._.raj_" target="_blank">
+    <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
+    </a>&nbsp;&nbsp;
+     <a href="https://t.me/switchengeek" target="_blank">
+    <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="40px" alt="Telegram"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ankit-raj-kushwaha-840b931aa/" target="_blank">
+    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+    </a>&nbsp;&nbsp;
+</p>
 
 I’m Ankit Raj, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
 
@@ -41,41 +73,9 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
-## Real-time Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ankit-Raj27&count_private=true" width = 400>
-  <br>
-</p>
 
-<!-- ## Featured Repos -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site) -->
 
-<p align="center">
-    <a href="https://github.com/nagarajpandith?tab=repositories" target="_blank">View More on Github
-    </a>
-</p>
 
-## Get in touch
-<p align="center">
-    <a href="https://www.discord.com/users/hashclan#4890" target="_blank">
-    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
-    </a>&nbsp;&nbsp;
-    <a href="mailto:ankitrajk27@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/_ankit._.raj_" target="_blank">
-    <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
-    </a>&nbsp;&nbsp;
-     <a href="https://t.me/switchengeek" target="_blank">
-    <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="40px" alt="Telegram"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ankit-raj-kushwaha-840b931aa/" target="_blank">
-    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
-    </a>&nbsp;&nbsp;
-</p>
 
 <!---
 nagarajpandith/nagarajpandith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
