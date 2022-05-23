@@ -1,7 +1,6 @@
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"  </h2>
 </div>
-## Real-time Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Ankit-Raj27&count_private=true" width = 400>
   <br>
@@ -39,7 +38,7 @@
     </a>&nbsp;&nbsp;
 </p>
 
-I’m Ankit Raj, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
+  <b>I</b>’m Ankit Raj, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
 
 I also love to read and debate about Philosophy & History.
 
