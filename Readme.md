@@ -38,11 +38,7 @@
     </a>&nbsp;&nbsp;
 </p>
 
-  <b>I</b>’m Ankit Raj, a 19-year old tech enthusiast passionate about Web Development. I'm Currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos. 
-
-I also love to read and debate about Philosophy & History.
-
-While not working on a project, you'll find me watching a Crime thriller or jamming to some Trap Metal banger.
+  <b>I</b>’m Ankit Raj, a 19-year old tech enthusiast, currently pursuing my Bachelor's degree in Computer Science. I sometimes spend my time gaming and binge watching YouTube videos.
 
 Here is a list of the technologies that I'm familar with! 
      
