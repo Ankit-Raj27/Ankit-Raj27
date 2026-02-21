@@ -1,25 +1,9 @@
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"  </h2>
 </div>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ankit-Raj27&count_private=true&theme=dark&show_icons=true" width = 400 display="inline-block"> 
-  <br>
-</p>
+  
+![](https://komarev.com/ghpvc/?username=Ankit-Raj27&color=brightgreen) 
 
-<!-- ## Featured Repos -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=portfolio)](https://github.com/nagarajpandith/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=nmamit-sr)](https://github.com/nagarajpandith/nmamit-sr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=hackverse22)](https://github.com/nagarajpandith/hackverse22)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagarajpandith&repo=Hostel-Site)](https://github.com/nagarajpandith/Hostel-Site) -->
-
-<p align="center">
-    <a href="https://github.com/Ankit-Raj27?tab=repositories" target="_blank">View More on Github
-    </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Ankit-Raj27&color=brightgreen)
-
-## About
 <p align="center">
     <a href="https://www.discord.com/users/Switchengeek#7933" target="_blank">
     <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
